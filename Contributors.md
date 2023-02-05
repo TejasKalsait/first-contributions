@@ -51,6 +51,7 @@
 - [Rino De Guzman](https://github.com/Rino-DG)
 - [Kanhaiya gavit]
 - [shabarish k]
+########################################TEJAS%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 - [Md Samsul Alam] (https://github.com/Samsul-Alam-STP)
 - [Kanhaiya gaivt VSC]
 - [Alexis Torosina] (https://github.com/alexistorosina1)
@@ -2146,3 +2147,4 @@ Ayan Das
 - [Tharun Suresh](https://github.com/tharunsuresh-code)
 - [Vishal Prakash](https://github.com/prakashvishal93)
 - [Ruslans Aleksejevs](https://github.com/RuslansAleksejevs)
+- [Devashish Chakraborty](https://github.com/devashishchakraborty)
